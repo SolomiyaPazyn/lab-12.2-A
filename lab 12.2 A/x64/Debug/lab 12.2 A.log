@@ -1,0 +1,3 @@
+﻿  lab 12.2 A.cpp
+D:\programming\lab 12.2 A\lab 12.2 A\lab 12.2 A.cpp(31,1): warning C4715: 'Student::return_major': not all control paths return a value
+  lab 12.2 A.vcxproj -> D:\programming\lab 12.2 A\lab 12.2 A\x64\Debug\lab 12.2 A.exe

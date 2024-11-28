@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\programming\lab 12.2 A\lab 12.2 A\lab 12.2 A.cpp(31,1): warning C4715: 'Student::return_major': not all control paths return a value
+     Creating library D:\programming\lab 12.2 A\lab 12.2 A\x64\Debug\UnitTest1.lib and object D:\programming\lab 12.2 A\lab 12.2 A\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\programming\lab 12.2 A\lab 12.2 A\x64\Debug\UnitTest1.dll
